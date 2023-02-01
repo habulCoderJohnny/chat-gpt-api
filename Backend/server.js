@@ -46,4 +46,4 @@ app.post('/', async (req, res) => {
   }
 })
 
-app.listen(3000, () => console.log('backend Server http://localhost:5000'))
+app.listen(3000, () => console.log('backend Server https://chatwithplanetjohnny.onrender.com'))
