@@ -1,4 +1,4 @@
-import botImg from './img/logo.png'
+import botImg from './img/bot.gif'
 import userImg from './img/user.png'
 
 const form = document.querySelector('form')
